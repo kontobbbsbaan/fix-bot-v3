@@ -138,27 +138,27 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 WH-MODS-BOT-V1 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘WH-MODS-BOT-V1 ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm = '                「 MODZ BOTZ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘MODZ BOTZ ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = '⫹⫺ WH-MODS-BOT-V1 '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By WH-MODS-DEV`
+global.titlebot = `⫹⫺ WhatsApp Bot | By Kian`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 WH-MODS-BOT-V1  あ」'
+global.author = '                「 MODZ BOTZ  あ」'
 
 /*Fake*/
-global.fsizedoc = '1'.repeat(10)
-global.fpagedoc = '1'.repeat(10)
-global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
+global.fsizedoc = '9999'.repeat(2)
+global.fpagedoc = '9999'.repeat(2)
+global.thumbdoc = 'https://telegra.ph/file/9b40c1b28b60f1ca7c070.jpg'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/XZrK6yQ/transformers.jpg' //Main Thumbnail
-global.imagebot = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
+global.thumb = 'https://telegra.ph/file/9b40c1b28b60f1ca7c070.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/9b40c1b28b60f1ca7c070.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://i.ibb.co/XZrK6yQ/transformers.jpg']
-global.fla = 'https://i.ibb.co/XZrK6yQ/transformers.jpg'
+global.thumbs = ['https://telegra.ph/file/9b40c1b28b60f1ca7c070.jpg']
+global.fla = 'https://telegra.ph/file/9b40c1b28b60f1ca7c070.jpg'
 global.thumbnailUrl = [
 'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg','https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
 'https://telegra.ph/file/6359b013bc7e52c3b346f.jpg','https://telegra.ph/file/d43c89a5d2da72875ec05.jpg',
@@ -609,8 +609,8 @@ global.drtf = 'text/rtf'
 global.thumbdoc = 'https://telegra.ph/file/6e45318d7c76f57e4a8bd.jpg'
 
 /*=========== FAKE SIZE ===========*/
-global.fsizedoc = '99999999999999' // default 10TB
-global.fpagedoc = '999'
+global.fsizedoc = '1000' // default 10TB
+global.fpagedoc = '100000'
 
 /*=========== HIASAN ===========*/
 // DEFAULT MENU
@@ -636,8 +636,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'WH-MODS-BOT-V1'
-global.stickauth = `By ©WH-MODS-DEV`
+global.stickpack = '.̷̵̷̸̢̨̨̢̛̺͕͚̲̭̙̬̦͚̬̰̘͚̩̻̃̉̾ͫ͒̔ͬ̑̾̂̂̂̓̈ͫͤͨ̒̏̇͊͐̈̓͆̾͊́̀̚̚͘͘̕͜͟͟͡͠͡͡͏̸̨͘'
+global.stickauth = `.̷̵̷̸̢̨̨̢̛̺͕͚̲̭̙̬̦͚̬̰̘͚̩̻̃̉̾ͫ͒̔ͬ̑̾̂̂̂̓̈ͫͤͨ̒̏̇͊͐̈̓͆̾͊́̀̚̚͘͘̕͜͟͟͡͠͡͡͏̸̨͘`
 
 global.multiplier = 38 // The higher, The harder levelup
 
